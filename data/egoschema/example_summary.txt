@@ -1,0 +1,229 @@
+[CAPTION]
+#C C picks a bottle of juice
+#C C picks a bottle of juice from the fridge with her right hand
+#C C moves a bottle of water in the refrigerator with her right hand
+#C C pushes the bottle in the fridge
+#C C picks a bottle of water from the fridge with her right hand
+#C C opens a refrigerator with her left hand.
+#C C places the tin in the fridge
+#O The man X opens the fridge with his right hand.
+#O The man X puts the container in the sink with his right hand
+#C C looks at man X
+#C C places the can in her right hand into the fridge.
+#C C drops the carton of milk on the fridge with her left hand
+#C C moves a container in the fridge with her left hand. 
+#C C picks a bottle of juice
+#C C puts the container in the fridge 
+#C C picks a container from the refrigerator with her left hand. 
+#C C places the plastic container on the fridge with her right hand.
+#C C puts the pack in her left hand into the fridge.
+#C C puts the container in the fridge with her left hand.
+#C C drops the jar of fruit juice in the fridge with her right hand
+#C C picks a container from the fridge
+#C C holds a tin
+#C C picks a plate of food from the refrigerator with her right hand
+#C C picks a plastic container from the refrigerator with her right hand.
+#C C picks a plastic container from the fridge with her right hand.
+#C C looks around
+#C C stares a
+#C C looks around
+#C C looks around
+#C C looks around
+#C C looks at the fridge 
+#C C closes the fridge with his left hand
+#C C looks inside the fridge
+#C C looks around the fridge
+#C C looks inside the fridge
+#C C closes the fridge
+#C C walks towards the kitchen
+#C C walks to the kitchen sink
+#C C opens the fridge
+#C C closes the cabinet
+#C C looks around the room
+#C C puts the bottle in the kitchen cabinet with her right hand
+#C C looks around
+#C C picks the shopping from the shelves
+#C C turns towards the shelf.
+#C C closes the door with her right hand.
+#C C closes the closet door
+#C C looks around 
+#C C closes the cabinet
+#C C opens the door of the kitchen cabinet with her right hand
+#O The man X opens the refrigerator door with his right hand
+#O The man X closes the refrigerator with his right hand.
+#O The man X closes the fridge door with his right hand
+#O The man X opens a refrigerator with his right hand.
+#C C interacts with the man X.
+#O The man X closes the fridge with his right hand.
+#O The man X holds the fridge door with his right hand.
+#O The man X opens the fridge with his right hand.
+#O The man X picks a plate from the kitchen counter with his right hand
+#O the man X closes the fridge with his right hand.
+#C C puts the meat into the cabinet
+#C C opens a cabinet with his right hand
+#C C opens a cabinet door with her right hand.
+#C C opens the cupboard with her right hand.
+#C C picks a plate from the kitchen cabinet with his right hand
+#C C picks a bag from the floor with her left hand
+#C C picks a paper bag from the floor
+#C C holds the shopping bag
+#C C moves the bag on the floor with her right hand
+#C C picks up the shopping bag
+#C C picks a bag from the floor 
+#C C picks the paper bag
+#C C puts the piece of cucumber on the floor
+#C C takes the blue bag from the floor
+#C C picks up the bag of chips from the floor with her right hand
+#C C looks around the house
+#C C walks to the kitchen
+#C C walks around
+#C C picks a paper bag
+#C C walks around
+#O the man A picks a phone from the kitchen table with his left hand.
+#C C interacts with the man X.
+#O the man A cleans a cooker with the rag in his right hand.
+#O person X operates the cooker
+#O The man X holds a phone in his left hand.
+#C C looks around 
+#C C moves towards the kitchen sink.
+#C C picks the plastic bowl from the kitchen counter with her right hand
+#C C looks around
+#C C looks around
+#C C walks around
+#C C walks to a kitchen
+#C C walks around
+#C C walks to the kitchen
+#C C walks towards the kitchen
+#C C looks around
+#C C looks around
+#C C interacts with the woman
+#C C looks around
+#C C looks around 
+#C C picks the paper from the table with her right hand.
+#C C picks a paper from the table with her right hand.
+#C C picks a paper from the dining table with her left hand
+#C C picks a paper on the table with her left hand.
+#C C picks a paper from the table
+#C C moves a paper on the table with her right hand.
+#C C picks up a paper on the table with her left hand
+#C C moves a wire with her right hand.
+#C C picks up a book from a table with her right hand
+#C C picks a paper from the table with her right hand.
+#C C opens a purse on the table with her right hand.
+#C C picks up a cable from the table with her left hand
+#C C picks a hair band from a table with her right hand
+#C C picks the earphones from the table with her left hand
+#C C picks a pen
+#C C picks a paper from the table with her right hand.
+#C C drops the paper bag on the table with her right hand
+#C C puts a hand towel on the table
+#C C picks the paper
+#C C drops the envelope on the table with her right hand.
+#O The man X opens a kitchen cabinet with his left hand.
+#O The man X drops a plastic bag on the kitchen countertop with his right hand
+#O The man X picks a bottle from the countertop with his right hand.
+#C C walks around
+#O The man X picks the bottle of spice from the counter with his right hand.
+#O The man M cleans the plate with the towel in his right hand
+#O man X cleans the plate with the cloth
+#O man X wipes his hands with the hand towel
+#O The man M holds the cloth with both hands.
+#C C interacts with the man X.
+#O The man B picks a towel from the table with his left hand
+#O man X talks to C 
+#C C looks around
+#O The man A cleans his hands with the handkerchief. 
+#C C converses with the man X.
+#C C picks a paper from a table with her right hand.
+#C C picks up a paper from the table with her right hand.
+#C C picks up a paper from a table with her right hand.
+#C C takes a paper from the table with her right hand.
+#C C picks up a paper on the dining table with her right hand
+#C C opens a bag with both hands.
+#C C opens the bag
+#C C picks the nylon bag from the table with both hands
+#C C lifts a leash with her right hand.
+#C C moves the dog leash
+#C C passes the rope from her left hand to her right hand
+#C C converses with the man A.
+#C C holds the rope with both hands.
+#C C walks to the table
+#C C walks around the house
+#C C walks to the bedroom
+#C C walks in the house
+#C C moves to the bed
+#C C walks around the house
+#C C walks in the room
+#C C holds the nylon in his right hand
+#C C looks around
+#C C looks around
+#C C walks to the table.
+#C C walks to the table
+#C C holds the bag of grapes in both hands.
+#C C holds the bag of carrots with both hands.
+#C C holds the bag with both hands.
+#C C holds the nylon bag with both hands.
+#C C holds the bag of grapes with her right hand
+#C C walks around the
+#C C looks around
+#C C looks around
+#C C looks around
+#C C talks to the
+#C C walks towards a kitchen.
+#C C walks towards a living room
+#C C walks into the living room
+#C C walks in the house
+#C C walks around
+#C C walks into the room.
+#C C walks into the sitting room from the corridor
+#C C walks around the house.
+#C C walks into the sitting room.
+#C C walks into the bedroom from the room.
+#C C walks around
+#C C looks around 
+#C C walks around
+#C C walks into the room
+#C C walks around
+#C C walks into the room.
+#C C walks to the bedroom from the kitchen
+#C C walks into a room.
+#C C walks into the bedroom.
+#C C walks into the living room.
+#C C walks around the house 
+#C C walks towards a dining area.
+#C C walks towards the dining table.
+#C C walks to the table in the living room
+#C C walks to the living room.
+#C C walks to the kitchen from the dining area
+#C C walks around 
+#C C looks around
+#C C walks towards the table.
+#C C walks towards a table.
+#C C walks around the house.
+#C C walks around the house
+#C C walks into a living room
+#C C walks towards a sitting room
+#C C walks in the room 
+#C C closes the cabinet
+#C C talks to a man X 
+#C C walks towards the door
+#C C closes the door
+#C C walks towards the door of the storage room with the man X
+#C C walks around the room
+#C C walks around
+#C C opens a door with his right hand
+#C C walks into the sitting room.
+#C C walks around the room
+#C C walks towards the sitting room from the kitchen
+#C C walks around
+#C C walks into the apartment.
+#C C walks towards the door
+#C C walks to the kitchen from the dining room
+#C C walks towards the table
+#C C walks towards the dining table
+#C C walks towards the dining area
+#C C walks into the kitchen.
+#C C walks to the kitchen.
+
+[SUMMARY]
+C picks a bottle from the fridge with her right hand, then C places the tin in the fridge. C picks a container from the fridge, then closes the fridge with her right hand. C puts the bottle in the kitchen cabinet with her right hand. The man X closes the fridge door with his right hand, then C picks a paper bag from the floor and puts the piece of cucumber on the floor. Then C picks the paper from the table with her right hand, then walks to the kitchen and interacts with the man X. C picks a hair band from a table with her right hand and moves to the bed. C opens a door with his right hand and walks around the house. C walks to the table in the living room, then opens a door with his right hand. Finally, C walks to the kitchen from the dining room.

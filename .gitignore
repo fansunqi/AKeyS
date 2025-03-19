@@ -1,0 +1,5 @@
+.DS_Store
+cache/
+tva_env/
+__pycache__
+old_results/

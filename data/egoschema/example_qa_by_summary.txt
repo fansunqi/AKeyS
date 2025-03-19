@@ -1,0 +1,50 @@
+<Example 1>
+[SUMMARY]
+C begins by throwing away various items, including paper and wrappers, into a trash bin. C then handles butter and cheese by picking, cutting, and placing them into a bowl. C also picks up other items like a carton of milk and moves boxes and cables. In the kitchen, C operates an electric mixer, whisking and mixing ingredients such as cheese, butter, nutmeg, and chocolate powder. C frequently holds and uses various kitchen tools like knives, forks, and mixers, and connects and operates kitchen appliances. Throughout, C is focused on preparation activities centered around kitchen duties, specifically mixing ingredients and operating tools and appliances to prepare a mixture.
+[QUESTION]
+Analyze the sequence of events in the video, specifically highlighting c's decision making and rationale behind chosen actions in relation to the primary objective.
+[OPTION]
+OPTION 0: In c's decision making process, the rationale behind chosen actions seems inconsistent with the primary objective of successfully making a delicious cheese sauce.
+OPTION 1: C's decision making process and the rationale behind their chosen actions are ultimately irrelevant to the main objective of successfully making a cheese sauce.
+OPTION 2: C's decision making and rationale behind chosen actions are consistent with the objective of making a cheese sauce.
+OPTION 3: C's decision making and rationale behind chosen actions are not well-reasoned.
+OPTION 4: The individual's decision making process and the rationale behind their chosen actions are not well-executed or thoroughly considered.
+{
+"REASON": "C's actions throughout the video, including cutting butter and cheese, mixing ingredients, and operating kitchen appliances, consistently align with the primary objective of preparing a cheese sauce. The repeated focus on handling, cutting, and mixing dairy products, along with the use of kitchen tools and appliances, demonstrates a logical and goal-oriented approach towards making a cheese sauce.",
+"ANSWER": 2,
+"CONFIDENCE": 5
+}
+
+<Example 2>
+[SUMMARY]
+The video depicts C and other individuals, presumably workers, at a construction site. C consistently moves around the construction area, fetching water with a jug and pouring it into basins and mixing concrete. C also picks and uses a trowel to scoop and mix cement and sand, indicating construction-related activities. The video involves C repeatedly preparing cement and sand mixture, walking around the construction site, and interacting with various tools and materials related to construction.,
+[QUESTION]
+How can you describe the primary focus of the video in relation to c's actions, and what other activities help support this main objective?
+[OPTION]
+OPTION 0: C is a skilled painter who is currently preparing paint to expertly paint a wall.
+OPTION 1: C is a construction worker who is preparing cement to plaster a wall.
+OPTION 2: C is a proficient gardener who is diligently preparing the soil to carefully plant a healthy tree.
+OPTION 3: C is a sculptor who is preparing clay to sculpt a statue.
+OPTION 4: C is a talented musician who is currently preparing various instruments to skillfully play a beautiful song.
+{
+"REASON": "Based on the actions performed by C throughout the video, the primary focus is on preparing cement, which includes fetching water, mixing the cement with the trowel, and moving around the construction site. The continuous tasks associated with handling cement, water, and other construction materials clearly indicate that C is engaged in construction work, specifically in preparing cement for plastering or similar purposes. Therefore, the correct option is that C is a construction worker preparing cement to plaster a wall.",
+"ANSWER": 1,
+"CONFIDENCE": 5
+}
+
+<Example 3>
+[SUMMARY]
+Throughout the video, C is consistently engaged in washing and cleaning various kitchen items. This includes washing trays, plates, graters, and chopping boards, and using sponges and scouring pads to scrub them. C also rinses these items thoroughly and places them in dish racks. Additionally, C frequently opens and closes the tap during the cleaning process.
+[QUESTION]
+Taking into account all the actions performed by c, what can you deduce about the primary objective and focus within the video content?
+[OPTION]
+OPTION 0: C is cooking.
+OPTION 1: C is doing laundry.
+OPTION 2: C is cleaning the kitchen.
+OPTION 3: C is cleaning dishes.
+OPTION 4: C is cleaning the bathroom.
+{
+"REASON": "Based on the consistent actions of washing and scrubbing various kitchen items, C's primary objective appears to be cleaning dishes and other kitchen utensils. There are no indications of cooking, doing laundry, or bathroom cleaning activities in the given captions.",
+"ANSWER": 3,
+"CONFIDENCE": 5
+}

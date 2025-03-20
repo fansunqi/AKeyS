@@ -1,4 +1,4 @@
-# 🌲 TreeVideoAgent
+# 🌲 AKeyS: Agentic Keyframe Search for Video Question Answering
 
 ## News and Todo 🗓️
 
@@ -7,6 +7,13 @@
 - [x] Release Code for EgoSchema
 
 - [ ] Release Code for NExT-QA
+
+## Introduction 
+
+​	We present **Agentic Keyframe Search (AKeyS)**, a simple yet powerful algorithm for identifying keyframes in the VideoQA task. It can effectively distinguish key information from redundant, irrelevant content by leveraging modern language agents to direct classical search algorithms. Specifically, we first segment the video and organize it as a tree structure. Then, AKEYS uses a
+language agent to estimate heuristics and movement costs while dynamically expanding nodes. Finally, the agent determines if sufficient keyframes have been collected based on termination conditions and provides answers. Extensive experiments on the EgoSchema and NExT-QA datasets show that AKEYS outperforms all previous methods with the highest keyframe searching efficiency, which means it can accurately identify key information and conduct effective visual reasoning with minimal computational overhead. For example, on the EgoSchema subset, it achieves 1.8% higher accuracy while processing only 43.5% of the frames compared to VideoTree.
+
+<img src="assets/main_fig.pdf" style="zoom:200%;" />
 
 ## Installation Steps 🛠️
 
@@ -44,6 +51,10 @@ We present a case demo by running:
 sh scripts/demo.sh
 ```
 
+A visualized example:
+
+<img src="assets/viz.pdf" style="zoom:200%;" />
+
 ## EgoSchema Experiments 🔬
 
 We obtained the dataset annotations and extracted captions from the File [LLoVi](https://drive.google.com/file/d/13M10CB5ePPVlycn754_ff3CwnpPtDfJA/view?usp=drive_link) provided. We have already placed subset annotations and captions in ```data/egoschema/```. 
@@ -79,3 +90,6 @@ It will output a histogram showing the number of problems solved and the accurac
 ## Acknowledgments
 
 We thank the developers of [LLoVi](https://github.com/CeeZh/LLoVi), [VideoTree](https://github.com/Ziyang412/VideoTree), [VideoAgent](https://github.com/wxh1996/VideoAgent) and [HCQA](https://github.com/Hyu-Zhang/HCQA) for their public code release. 
+
+## Citation
+

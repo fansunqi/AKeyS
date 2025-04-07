@@ -1,6 +1,9 @@
 # 🌲 AKeyS: Agentic Keyframe Search for Video Question Answering
 
-TODO: add arxiv url
+[![GitHub license](https://img.shields.io/badge/License-MIT-green.svg?logo=github)](https://lbesson.mit-license.org/)
+[![Arxiv](https://img.shields.io/badge/arXiv-2503.16032-B31B1B.svg?logo=arxiv)](https://arxiv.org/abs/2503.16032)
+
+This repository is the official implementation of [Agentic Keyframe Search for Video Question Answering](https://arxiv.org/abs/2503.16032).
 
 ## News and Todo 🗓️
 
@@ -87,7 +90,7 @@ python3 analyze_results.py --filepath YOUR_RESULT_JSON_FILE_PATH
 
 It will output a histogram showing the number of problems solved and the accuracy at each step like this:
 
-<img src="results/egoschema_subset/20250315_162843.png" style="zoom:67%;" />
+<img src="results/egoschema_subset/20250315_162843.png" style="zoom: 50%;" />
 
 ## Acknowledgments
 
@@ -95,4 +98,17 @@ We thank the developers of [LLoVi](https://github.com/CeeZh/LLoVi), [VideoTree](
 
 ## Citation
 
-TODO
+If you find our repo useful, please kindly consider citing:
+
+```
+@misc{fan2025agentickeyframesearchvideo,
+      title={Agentic Keyframe Search for Video Question Answering}, 
+      author={Sunqi Fan and Meng-Hao Guo and Shuojin Yang},
+      year={2025},
+      eprint={2503.16032},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.16032}, 
+}
+```
+

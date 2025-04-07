@@ -78,9 +78,7 @@ For the EgoSchema fullest, download annotations and captions from [LLoVi](https:
 sh scripts/egoschema_fullset.sh
 ```
 
-The code will run an automated evaluation script and output accuracy and mean frame number like this:
-
-![](assets/egoschema_results.png)
+The code will run an automated evaluation script and output accuracy and mean frame number.
 
 For a step-by-step analysis, run:
 

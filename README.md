@@ -22,13 +22,13 @@ language agent to estimate heuristics and movement costs while dynamically expan
 
 ## Installation Steps 🛠️
 
-Our TreeVideoAgent does not require many computational resources; it can run on a personal computer without GPU.
+Our AKeyS does not require many computational resources; it can run on a personal computer without GPU.
 
 1. Clone the repository 📦:
 
    ```python
-   git clone git@github.com:fansunqi/TreeVideoAgentPublic.git
-   cd TreeVideoAgentPublic
+   git clone git@github.com:fansunqi/AKeyS.git
+   cd AKeyS
    ```
 
 2. Create a virtual environment 🧹 and install the dependencies 🧑‍🍳:
